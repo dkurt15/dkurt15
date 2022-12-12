@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dilek Kurt</h1>
 <h3 align="center">I am a Data Scientist with the background in Physics</h3>
-<img align=”right” alt=”Coding” width=”400” src=”https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e47v6xu39vlehr9utovx7non4w02yu7cx94ju160su7&rid=giphy.gif&ct=g”>
+<img align=”right” alt=”Coding” width=”400” src=”https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gifcid=ecf05e47v6xu39vlehr9utovx7non4w02yu7cx94ju160su7&rid=giphy.gif&ct=g”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkurt15&label=Profile%20views&color=0e75b6&style=flat" alt="dkurt15" /> </p>
 
