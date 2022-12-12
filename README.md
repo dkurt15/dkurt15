@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilek Kurt</h1>
 <h3 align="center">I am a Data Scientist with the background in Physics</h3>
 <img align=”right” alt=”Coding” width=”400” src=”https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif”>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkurt15&label=Profile%20views&color=0e75b6&style=flat" alt="dkurt15" /> </p>
-
 - 🔭 I’m currently working on **Machine Learning, Deep Learning and Data Analysis (Matplotlib, Seaborn, Tableau)**
 
 - 🌱-💬 I’m currently learning **I am happy to teach you what I know and eager to learn what you will offer**
