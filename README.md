@@ -5,9 +5,7 @@
 
 - 🎓 I just started **Data Science Bootcamp** 
 
-- 🔭 I'm currently working **an e-commerce project**
-
-- 🔎 I'm currently looking **a job to gain experience**
+- 🔭 I currently keep learning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
