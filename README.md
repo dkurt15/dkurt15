@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkurt15&label=Profile%20views&color=0e75b6&style=flat" alt="dkurt15" /> </p>
 
-- 🎓 I've completed **Data Science Bootcamp**
+- 🎓 I just started **Data Science Bootcamp** 
 
 - 🔭 I'm currently working **an e-commerce project**
 
