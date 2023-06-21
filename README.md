@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dkurt15&label=Profile%20views&color=0e75b6&style=flat" alt="dkurt15" /> </p>
 
-- 🎓 I just started **Data Science Bootcamp** 
+- 🎓 I completed **Data Science Bootcamp** 
 
-- 🔭 I currently keep learning.
+- 🔭 I currently keep learning
+
+- 🔎 I'm currently seeking a job 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
